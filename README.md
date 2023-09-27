@@ -1,1 +1,1 @@
-# store_portfolio
+# personal_portfolio
