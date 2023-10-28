@@ -63,6 +63,9 @@ img {
   display: block;
 }
 
+a:nth-child(3) img {
+  filter: blur(12px);
+}
 
 /* nav */
 
